@@ -1,0 +1,13 @@
+{
+    "model_type": "LinearRegression",
+    "target": "track_count",
+    "features": [
+        "artist",
+        "playlist"
+    ],
+    "test_size": 0.2,
+    "random_state": 42,
+    "total_rows": 11013847,
+    "training_rows": 8811077,
+    "testing_rows": 2202770
+}

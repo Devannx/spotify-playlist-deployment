@@ -1,0 +1,9 @@
+{
+    "target_mean": 154.11453300558833,
+    "target_median": 27.0,
+    "target_min": 1.0,
+    "target_max": 5214.0,
+    "unique_artists": 289602,
+    "unique_tracks": 2004520,
+    "unique_playlists": 157320
+}

@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+.env
+
+.ipynb_checkpoints/
+
+*.joblib
+
+spotify_dataset.csv
+spotify_dataset_clean.csv
